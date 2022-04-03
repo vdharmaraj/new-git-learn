@@ -1,1 +1,2 @@
-learning fetch-pull-push
+learning fetch-pull-push ---
+Git training
